@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b2465ea-4619-4aa4-a92d-f07ebddfa301" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b363d0f5-9001-41b1-b2ee-7843d57c7e79" name="Début: Entités crées" comment="" />
@@ -213,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584732123384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Gitignore modifié">
+      <created>1584891441299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584891441299</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +248,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Entitées créées." />
     <MESSAGE value="Début: Entités crées" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début: Entités crées" />
+    <MESSAGE value="Gitignore modifié" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gitignore modifié" />
   </component>
   <component name="WindowStateProjectService">
     <state x="490" y="137" width="1000" height="846" key="#Notifications" timestamp="1584732147713">
@@ -253,10 +260,10 @@
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
     <state x="1125" y="258" width="655" height="605" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1584652913579" />
-    <state x="313" y="27" width="1140" height="1046" key="CommitChangelistDialog2" timestamp="1584891215196">
+    <state x="254" y="27" width="1102" height="741" key="CommitChangelistDialog2" timestamp="1584891441096">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="313" y="27" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1584891215196" />
+    <state x="254" y="27" width="1102" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1584891441096" />
     <state x="420" y="34" width="1140" height="1046" key="CommitChangelistDialog2/70.34.1850.1046@70.34.1850.1046" timestamp="1584732123323" />
     <state x="170" y="134" width="1650" height="846" key="DiffContextDialog" timestamp="1584731082012">
       <screen x="70" y="34" width="1850" height="1046" />
@@ -290,17 +297,19 @@
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
     <state x="490" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/70.34.1850.1046@70.34.1850.1046" timestamp="1584736497189" />
-    <state x="690" y="459" width="610" height="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584732026741">
-      <screen x="70" y="34" width="1850" height="1046" />
+    <state x="502" y="328" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584891673611">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
+    <state x="502" y="328" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1584891673611" />
     <state x="690" y="459" width="610" height="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.34.1850.1046@70.34.1850.1046" timestamp="1584732026741" />
     <state x="683" y="302" width="623" height="517" key="git4idea.merge.GitMergeDialog" timestamp="1584731994659">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
     <state x="683" y="302" width="623" height="517" key="git4idea.merge.GitMergeDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1584731994659" />
-    <state x="732" y="392" width="516" height="336" key="git4idea.rebase.GitRebaseDialog" timestamp="1584732062956">
-      <screen x="70" y="34" width="1850" height="1046" />
+    <state x="532" y="281" width="754" height="265" key="git4idea.rebase.GitRebaseDialog" timestamp="1584891555127">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
+    <state x="532" y="281" width="754" height="265" key="git4idea.rebase.GitRebaseDialog/67.27.1299.741@67.27.1299.741" timestamp="1584891555127" />
     <state x="732" y="392" width="516" height="336" key="git4idea.rebase.GitRebaseDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1584732062956" />
     <state x="787" y="302" width="405" height="516" key="svn.repositoryBrowser" timestamp="1584736541995">
       <screen x="70" y="34" width="1850" height="1046" />
