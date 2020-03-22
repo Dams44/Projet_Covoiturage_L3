@@ -7,6 +7,9 @@ use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
+ * @ORM\Entity()
+ * @ORM\Table(name="Covoiturage")
+ * @ORM\HasLifecycleCallbacks()
  * @ORM\Entity(repositoryClass="App\Repository\CovoiturageRepository")
  */
 class Covoiturage
@@ -262,5 +265,21 @@ class Covoiturage
         $this->commentaire = $commentaire;
 
         return $this;
+    }
+
+    /**
+     * @ORM\PrePersist()
+     */
+    public function prePersist()
+    {
+        $this->date_creation = new \DateTime();
+        $this->date_modification = new \DateTime();
+    }
+    /**
+     * @ORM\PreUpdate()
+     */
+    public function preUpdate()
+    {
+        $this->date_modification = new \DateTime();
     }
 }
