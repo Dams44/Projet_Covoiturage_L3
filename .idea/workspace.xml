@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,6 +237,7 @@
       <updated>1584886188498</updated>
     </task>
     <option name="localTasksCounter" value="8" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +246,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -311,6 +318,7 @@
     <state x="690" y="459" width="610" height="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584732026741">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
+    <state x="502" y="328" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1584891673611" />
     <state x="690" y="459" width="610" height="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.34.1850.1046@70.34.1850.1046" timestamp="1584732026741" />
     <state x="683" y="302" width="623" height="517" key="git4idea.merge.GitMergeDialog" timestamp="1584731994659">
       <screen x="70" y="34" width="1850" height="1046" />
@@ -322,7 +330,10 @@
     <state x="521" y="302" width="938" height="517" key="git4idea.merge.GitPullDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1584887663487" />
     <state x="732" y="392" width="516" height="336" key="git4idea.rebase.GitRebaseDialog" timestamp="1584732062956">
       <screen x="70" y="34" width="1850" height="1046" />
+<state x="532" y="281" width="754" height="265" key="git4idea.rebase.GitRebaseDialog" timestamp="1584891555127">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
+    <state x="532" y="281" width="754" height="265" key="git4idea.rebase.GitRebaseDialog/67.27.1299.741@67.27.1299.741" timestamp="1584891555127" />
     <state x="732" y="392" width="516" height="336" key="git4idea.rebase.GitRebaseDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1584732062956" />
     <state x="787" y="302" width="405" height="516" key="svn.repositoryBrowser" timestamp="1584736541995">
       <screen x="70" y="34" width="1850" height="1046" />
